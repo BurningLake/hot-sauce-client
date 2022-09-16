@@ -1,3 +1,3 @@
-# Trash Pack
+# Hot Sauce
 
 Hello, page is WIP.
