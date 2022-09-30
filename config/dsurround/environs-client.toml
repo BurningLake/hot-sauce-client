@@ -51,7 +51,7 @@
 	#Increase fog based on the strength of rain
 	"Weather Fog" = true
 	#Increase fog at bedrock layers
-	"Bedrock Fog" = true
+	"Bedrock Fog" = false
 	#Show morning fog that eventually burns off
 	"Morning Fog" = true
 	#Higher the player elevation the more haze that is experienced
